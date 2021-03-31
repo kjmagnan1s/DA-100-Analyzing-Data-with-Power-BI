@@ -36,9 +36,9 @@ This lab is one of many in a series of labs that was designed as a complete stor
 
 9. **Create a Power BI Dashboard**
 
-10. Perform Data Analysis in Power BI Desktop
+10. Create a Power BI Paginated Report
 
-11. Create a Power BI Paginated Report
+11. Perform Data Analysis in Power BI Desktop
 
 ## **Exercise 1: Create a Dashboard**
 
@@ -110,7 +110,7 @@ In this task you will setup the environment for the lab by opening the starter r
 
     ![Picture 34](Linked_image_Files/09-create-power-bi-dashboard_image9.png)
 
-8. In the **Open** window, navigate to the **D:\DA100\Labs\create-power-bi-dashboard\Starter** folder.
+8. In the **Open** window, navigate to the **D:\DA100\Labs\09-create-power-bi-dashboard\Starter** folder.
 
 9. Select the **Sales Analysis** file.
 
@@ -154,7 +154,7 @@ In this task you will setup the environment for the lab by creating a dataset.
 
     ![Picture 5](Linked_image_Files/09-create-power-bi-dashboard_image16.png)
 
-4. In the **Open** window, navigate to the **D:\DA100\Labs\design-report-in-power-bi-desktop-enhanced\Solution** folder.
+4. In the **Open** window, navigate to the **D:\DA100\Labs\08-design-report-in-power-bi-desktop-enhanced\Solution** folder.
 
 5. Select the **Sales Analysis.pbix** file, and then click **Open**.
 
